@@ -4,7 +4,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) üzerinden aldığım ilk ders
 
 ![Ödev Resmi](https://github.com/serhatBilal/kodluyoruzilkrepo/blob/main/ornek.jpg?raw=true)
 
-'''javascript
+
+```javascript
+
 console.log("Merhaba Dünya")
 
-'''
+```
