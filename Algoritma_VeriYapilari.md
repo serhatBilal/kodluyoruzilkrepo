@@ -1,4 +1,4 @@
-# Algoritma ve Veri Yapilari 1. Ödev
+# Algoritma ve Veri Yapilari 1. Proje
 
 
 
@@ -42,7 +42,7 @@ Average case kapsamında.
 ```
 ------------------------------------
 
-# Algoritma ve Veri Yapilari 2. Ödev
+# Algoritma ve Veri Yapilari 2. Proje
 
 ## [16,21,11,8,12,22] -> Merge Sort
 * Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
