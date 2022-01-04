@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\bin\Debug\net5.0\variables.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\bin\Debug\net5.0\variables.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\bin\Debug\net5.0\variables.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\bin\Debug\net5.0\variables.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\bin\Debug\net5.0\variables.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\bin\Debug\net5.0\ref\variables.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\bin\Debug\net5.0\variables.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\obj\Debug\net5.0\variables.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\obj\Debug\net5.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\obj\Debug\net5.0\variables.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\obj\Debug\net5.0\variables.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\obj\Debug\net5.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\obj\Debug\net5.0\variables.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\obj\Debug\net5.0\ref\variables.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\obj\Debug\net5.0\variables.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Variables\variables\obj\Debug\net5.0\variables.genruntimeconfig.cache
