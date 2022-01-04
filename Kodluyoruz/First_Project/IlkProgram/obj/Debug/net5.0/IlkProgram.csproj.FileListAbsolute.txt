@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\bin\Debug\net5.0\IlkProgram.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\bin\Debug\net5.0\IlkProgram.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\bin\Debug\net5.0\IlkProgram.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\bin\Debug\net5.0\IlkProgram.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\bin\Debug\net5.0\IlkProgram.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\bin\Debug\net5.0\ref\IlkProgram.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\bin\Debug\net5.0\IlkProgram.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\obj\Debug\net5.0\IlkProgram.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\obj\Debug\net5.0\IlkProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\obj\Debug\net5.0\IlkProgram.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\obj\Debug\net5.0\IlkProgram.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\obj\Debug\net5.0\IlkProgram.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\obj\Debug\net5.0\IlkProgram.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\obj\Debug\net5.0\ref\IlkProgram.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\obj\Debug\net5.0\IlkProgram.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\IlkProgram\obj\Debug\net5.0\IlkProgram.genruntimeconfig.cache
