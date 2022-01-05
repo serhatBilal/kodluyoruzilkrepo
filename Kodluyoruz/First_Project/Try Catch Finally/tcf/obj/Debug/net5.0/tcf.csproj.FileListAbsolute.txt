@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\bin\Debug\net5.0\tcf.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\bin\Debug\net5.0\tcf.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\bin\Debug\net5.0\tcf.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\bin\Debug\net5.0\tcf.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\bin\Debug\net5.0\tcf.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\bin\Debug\net5.0\ref\tcf.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\bin\Debug\net5.0\tcf.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\obj\Debug\net5.0\tcf.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\obj\Debug\net5.0\tcf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\obj\Debug\net5.0\tcf.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\obj\Debug\net5.0\tcf.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\obj\Debug\net5.0\tcf.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\obj\Debug\net5.0\tcf.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\obj\Debug\net5.0\ref\tcf.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\obj\Debug\net5.0\tcf.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Try Catch Finally\tcf\obj\Debug\net5.0\tcf.genruntimeconfig.cache
