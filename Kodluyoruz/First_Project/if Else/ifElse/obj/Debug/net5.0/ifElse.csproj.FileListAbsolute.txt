@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\bin\Debug\net5.0\ifElse.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\bin\Debug\net5.0\ifElse.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\bin\Debug\net5.0\ifElse.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\bin\Debug\net5.0\ifElse.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\bin\Debug\net5.0\ifElse.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\bin\Debug\net5.0\ref\ifElse.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\bin\Debug\net5.0\ifElse.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\obj\Debug\net5.0\ifElse.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\obj\Debug\net5.0\ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\obj\Debug\net5.0\ifElse.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\obj\Debug\net5.0\ifElse.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\obj\Debug\net5.0\ifElse.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\obj\Debug\net5.0\ifElse.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\obj\Debug\net5.0\ref\ifElse.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\obj\Debug\net5.0\ifElse.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\if Else\ifElse\obj\Debug\net5.0\ifElse.genruntimeconfig.cache
