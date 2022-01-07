@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\bin\Debug\net5.0\Loops2.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\bin\Debug\net5.0\Loops2.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\bin\Debug\net5.0\Loops2.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\bin\Debug\net5.0\Loops2.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\bin\Debug\net5.0\Loops2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\bin\Debug\net5.0\ref\Loops2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\bin\Debug\net5.0\Loops2.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\obj\Debug\net5.0\Loops2.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\obj\Debug\net5.0\Loops2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\obj\Debug\net5.0\Loops2.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\obj\Debug\net5.0\Loops2.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\obj\Debug\net5.0\Loops2.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\obj\Debug\net5.0\Loops2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\obj\Debug\net5.0\ref\Loops2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\obj\Debug\net5.0\Loops2.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\While Foreach Loop\Loops2\obj\Debug\net5.0\Loops2.genruntimeconfig.cache
