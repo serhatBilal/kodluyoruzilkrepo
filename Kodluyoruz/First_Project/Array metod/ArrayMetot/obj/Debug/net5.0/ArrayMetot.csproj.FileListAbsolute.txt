@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\bin\Debug\net5.0\ArrayMetot.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\bin\Debug\net5.0\ArrayMetot.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\bin\Debug\net5.0\ArrayMetot.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\bin\Debug\net5.0\ArrayMetot.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\bin\Debug\net5.0\ArrayMetot.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\bin\Debug\net5.0\ref\ArrayMetot.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\bin\Debug\net5.0\ArrayMetot.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\obj\Debug\net5.0\ArrayMetot.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\obj\Debug\net5.0\ArrayMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\obj\Debug\net5.0\ArrayMetot.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\obj\Debug\net5.0\ArrayMetot.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\obj\Debug\net5.0\ArrayMetot.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\obj\Debug\net5.0\ArrayMetot.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\obj\Debug\net5.0\ref\ArrayMetot.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\obj\Debug\net5.0\ArrayMetot.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array metod\ArrayMetot\obj\Debug\net5.0\ArrayMetot.genruntimeconfig.cache
