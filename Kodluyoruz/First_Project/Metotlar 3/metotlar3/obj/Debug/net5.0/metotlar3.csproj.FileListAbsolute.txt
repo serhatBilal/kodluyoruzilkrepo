@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\bin\Debug\net5.0\metotlar3.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\bin\Debug\net5.0\metotlar3.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\bin\Debug\net5.0\metotlar3.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\bin\Debug\net5.0\metotlar3.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\bin\Debug\net5.0\metotlar3.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\bin\Debug\net5.0\ref\metotlar3.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\bin\Debug\net5.0\metotlar3.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\obj\Debug\net5.0\metotlar3.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\obj\Debug\net5.0\metotlar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\obj\Debug\net5.0\metotlar3.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\obj\Debug\net5.0\metotlar3.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\obj\Debug\net5.0\metotlar3.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\obj\Debug\net5.0\metotlar3.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\obj\Debug\net5.0\ref\metotlar3.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\obj\Debug\net5.0\metotlar3.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metotlar 3\metotlar3\obj\Debug\net5.0\metotlar3.genruntimeconfig.cache
