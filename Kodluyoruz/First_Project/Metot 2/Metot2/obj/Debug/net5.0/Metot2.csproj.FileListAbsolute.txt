@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\bin\Debug\net5.0\Metot2.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\bin\Debug\net5.0\Metot2.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\bin\Debug\net5.0\Metot2.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\bin\Debug\net5.0\Metot2.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\bin\Debug\net5.0\Metot2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\bin\Debug\net5.0\ref\Metot2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\bin\Debug\net5.0\Metot2.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\obj\Debug\net5.0\Metot2.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\obj\Debug\net5.0\Metot2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\obj\Debug\net5.0\Metot2.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\obj\Debug\net5.0\Metot2.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\obj\Debug\net5.0\Metot2.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\obj\Debug\net5.0\Metot2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\obj\Debug\net5.0\ref\Metot2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\obj\Debug\net5.0\Metot2.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Metot 2\Metot2\obj\Debug\net5.0\Metot2.genruntimeconfig.cache
