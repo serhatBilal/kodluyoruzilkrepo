@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\bin\Debug\net5.0\HazirMetotlar2.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\bin\Debug\net5.0\HazirMetotlar2.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\bin\Debug\net5.0\HazirMetotlar2.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\bin\Debug\net5.0\HazirMetotlar2.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\bin\Debug\net5.0\HazirMetotlar2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\bin\Debug\net5.0\ref\HazirMetotlar2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\bin\Debug\net5.0\HazirMetotlar2.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\obj\Debug\net5.0\HazirMetotlar2.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\obj\Debug\net5.0\HazirMetotlar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\obj\Debug\net5.0\HazirMetotlar2.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\obj\Debug\net5.0\HazirMetotlar2.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\obj\Debug\net5.0\HazirMetotlar2.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\obj\Debug\net5.0\HazirMetotlar2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\obj\Debug\net5.0\ref\HazirMetotlar2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\obj\Debug\net5.0\HazirMetotlar2.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazir Metotlar\HazirMetotlar2\obj\Debug\net5.0\HazirMetotlar2.genruntimeconfig.cache
