@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\bin\Debug\net5.0\HazirMetotlarString.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\bin\Debug\net5.0\HazirMetotlarString.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\bin\Debug\net5.0\HazirMetotlarString.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\bin\Debug\net5.0\HazirMetotlarString.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\bin\Debug\net5.0\HazirMetotlarString.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\bin\Debug\net5.0\ref\HazirMetotlarString.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\bin\Debug\net5.0\HazirMetotlarString.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\obj\Debug\net5.0\HazirMetotlarString.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\obj\Debug\net5.0\HazirMetotlarString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\obj\Debug\net5.0\HazirMetotlarString.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\obj\Debug\net5.0\HazirMetotlarString.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\obj\Debug\net5.0\HazirMetotlarString.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\obj\Debug\net5.0\HazirMetotlarString.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\obj\Debug\net5.0\ref\HazirMetotlarString.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\obj\Debug\net5.0\HazirMetotlarString.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Hazır String Metotlar\HazirMetotlarString\obj\Debug\net5.0\HazirMetotlarString.genruntimeconfig.cache
