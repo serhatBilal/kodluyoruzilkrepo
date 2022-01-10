@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\bin\Debug\net5.0\dictionarys.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\bin\Debug\net5.0\dictionarys.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\bin\Debug\net5.0\dictionarys.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\bin\Debug\net5.0\dictionarys.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\bin\Debug\net5.0\dictionarys.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\bin\Debug\net5.0\ref\dictionarys.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\bin\Debug\net5.0\dictionarys.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\obj\Debug\net5.0\dictionarys.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\obj\Debug\net5.0\dictionarys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\obj\Debug\net5.0\dictionarys.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\obj\Debug\net5.0\dictionarys.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\obj\Debug\net5.0\dictionarys.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\obj\Debug\net5.0\dictionarys.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\obj\Debug\net5.0\ref\dictionarys.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\obj\Debug\net5.0\dictionarys.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Dictionary\dictionarys\obj\Debug\net5.0\dictionarys.genruntimeconfig.cache
