@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\bin\Debug\net5.0\ArrayListler.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\bin\Debug\net5.0\ArrayListler.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\bin\Debug\net5.0\ArrayListler.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\bin\Debug\net5.0\ArrayListler.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\bin\Debug\net5.0\ArrayListler.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\bin\Debug\net5.0\ref\ArrayListler.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\bin\Debug\net5.0\ArrayListler.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\obj\Debug\net5.0\ArrayListler.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\obj\Debug\net5.0\ArrayListler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\obj\Debug\net5.0\ArrayListler.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\obj\Debug\net5.0\ArrayListler.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\obj\Debug\net5.0\ArrayListler.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\obj\Debug\net5.0\ArrayListler.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\obj\Debug\net5.0\ref\ArrayListler.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\obj\Debug\net5.0\ArrayListler.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Array List\ArrayListler\obj\Debug\net5.0\ArrayListler.genruntimeconfig.cache
