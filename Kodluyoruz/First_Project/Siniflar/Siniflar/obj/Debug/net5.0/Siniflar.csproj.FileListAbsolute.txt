@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\bin\Debug\net5.0\Siniflar.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\bin\Debug\net5.0\Siniflar.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\bin\Debug\net5.0\Siniflar.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\bin\Debug\net5.0\Siniflar.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\bin\Debug\net5.0\Siniflar.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\bin\Debug\net5.0\ref\Siniflar.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\bin\Debug\net5.0\Siniflar.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\obj\Debug\net5.0\Siniflar.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\obj\Debug\net5.0\Siniflar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\obj\Debug\net5.0\Siniflar.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\obj\Debug\net5.0\Siniflar.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\obj\Debug\net5.0\Siniflar.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\obj\Debug\net5.0\Siniflar.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\obj\Debug\net5.0\ref\Siniflar.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\obj\Debug\net5.0\Siniflar.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Siniflar\Siniflar\obj\Debug\net5.0\Siniflar.genruntimeconfig.cache
