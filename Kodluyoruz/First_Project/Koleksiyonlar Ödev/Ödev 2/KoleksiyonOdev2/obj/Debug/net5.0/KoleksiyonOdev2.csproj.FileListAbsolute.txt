@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\bin\Debug\net5.0\KoleksiyonOdev2.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\bin\Debug\net5.0\KoleksiyonOdev2.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\bin\Debug\net5.0\KoleksiyonOdev2.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\bin\Debug\net5.0\KoleksiyonOdev2.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\bin\Debug\net5.0\KoleksiyonOdev2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\bin\Debug\net5.0\ref\KoleksiyonOdev2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\bin\Debug\net5.0\KoleksiyonOdev2.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\obj\Debug\net5.0\KoleksiyonOdev2.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\obj\Debug\net5.0\KoleksiyonOdev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\obj\Debug\net5.0\KoleksiyonOdev2.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\obj\Debug\net5.0\KoleksiyonOdev2.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\obj\Debug\net5.0\KoleksiyonOdev2.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\obj\Debug\net5.0\KoleksiyonOdev2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\obj\Debug\net5.0\ref\KoleksiyonOdev2.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\obj\Debug\net5.0\KoleksiyonOdev2.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Koleksiyonlar Ödev\Ödev 2\KoleksiyonOdev2\obj\Debug\net5.0\KoleksiyonOdev2.genruntimeconfig.cache
