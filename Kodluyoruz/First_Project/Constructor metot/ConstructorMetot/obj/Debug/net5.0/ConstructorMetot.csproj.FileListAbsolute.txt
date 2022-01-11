@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\bin\Debug\net5.0\ConstructorMetot.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\bin\Debug\net5.0\ConstructorMetot.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\bin\Debug\net5.0\ConstructorMetot.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\bin\Debug\net5.0\ConstructorMetot.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\bin\Debug\net5.0\ConstructorMetot.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\bin\Debug\net5.0\ref\ConstructorMetot.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\bin\Debug\net5.0\ConstructorMetot.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\obj\Debug\net5.0\ConstructorMetot.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\obj\Debug\net5.0\ConstructorMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\obj\Debug\net5.0\ConstructorMetot.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\obj\Debug\net5.0\ConstructorMetot.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\obj\Debug\net5.0\ConstructorMetot.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\obj\Debug\net5.0\ConstructorMetot.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\obj\Debug\net5.0\ref\ConstructorMetot.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\obj\Debug\net5.0\ConstructorMetot.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Constructor metot\ConstructorMetot\obj\Debug\net5.0\ConstructorMetot.genruntimeconfig.cache
