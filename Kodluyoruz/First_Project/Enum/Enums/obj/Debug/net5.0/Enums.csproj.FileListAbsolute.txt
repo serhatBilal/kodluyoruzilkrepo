@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\bin\Debug\net5.0\Enums.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\bin\Debug\net5.0\Enums.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\bin\Debug\net5.0\Enums.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\bin\Debug\net5.0\Enums.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\bin\Debug\net5.0\Enums.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\bin\Debug\net5.0\ref\Enums.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\bin\Debug\net5.0\Enums.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\obj\Debug\net5.0\Enums.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\obj\Debug\net5.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\obj\Debug\net5.0\Enums.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\obj\Debug\net5.0\Enums.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\obj\Debug\net5.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\obj\Debug\net5.0\Enums.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\obj\Debug\net5.0\ref\Enums.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\obj\Debug\net5.0\Enums.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Enum\Enums\obj\Debug\net5.0\Enums.genruntimeconfig.cache
