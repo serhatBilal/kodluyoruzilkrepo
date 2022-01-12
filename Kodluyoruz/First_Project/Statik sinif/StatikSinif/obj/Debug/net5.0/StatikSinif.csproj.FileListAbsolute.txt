@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\bin\Debug\net5.0\StatikSinif.exe
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\bin\Debug\net5.0\StatikSinif.deps.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\bin\Debug\net5.0\StatikSinif.runtimeconfig.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\bin\Debug\net5.0\StatikSinif.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\bin\Debug\net5.0\StatikSinif.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\bin\Debug\net5.0\ref\StatikSinif.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\bin\Debug\net5.0\StatikSinif.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\obj\Debug\net5.0\StatikSinif.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\obj\Debug\net5.0\StatikSinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\obj\Debug\net5.0\StatikSinif.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\obj\Debug\net5.0\StatikSinif.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\obj\Debug\net5.0\StatikSinif.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\obj\Debug\net5.0\StatikSinif.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\obj\Debug\net5.0\ref\StatikSinif.dll
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\obj\Debug\net5.0\StatikSinif.pdb
+C:\Users\Serhat\Desktop\.net\Kodluyoruz\First_Project\Statik sinif\StatikSinif\obj\Debug\net5.0\StatikSinif.genruntimeconfig.cache
